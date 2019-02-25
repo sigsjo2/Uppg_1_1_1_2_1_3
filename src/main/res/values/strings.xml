@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="del_movie">Del Movie</string>
+    <string name="new_movie_name">Enter Movie Name</string>
+    <string name="editstring"></string>
+</resources>
